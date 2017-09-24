@@ -19,3 +19,22 @@ _______
 (3)df = pd.read_csv('AirPassengers.csv', encoding='utf-8', index_col='date')
 df.index = pd.to_datetime(df.index)  # 将字符串索引转换成时间索引
 
+
+#  2. 概率分布
+_____
+
+(1)http://python.jobbole.com/81321/
+有不同形态，仔细研究一下scipy.stats模块。
+
+
+(2)
+
+# 3.蒙特卡洛
+_____
+
+(1) 产生数列
+
+(2)
+
+
+(3)
